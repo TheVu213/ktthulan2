@@ -1,1 +1,2 @@
 week1 thuộc week1
+thuộc main
